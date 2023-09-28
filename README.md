@@ -1,5 +1,5 @@
-# Class 04: Individual Exercise
+# Class 04
 
-## Group Members
-- Lesile Chan
+## Group Memembers
+- Lesile Chan 
 - Samantha Yan
